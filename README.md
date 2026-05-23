@@ -15,8 +15,6 @@ Traditional diagnosis relies on manual inspection of blood smear images under a 
 
 This project explores the use of deep learning to automate malaria detection and improve diagnostic accuracy.
 
-(Adapted from project brief )
-
 ---
 
 ## 🧠 Approach (Planned)
